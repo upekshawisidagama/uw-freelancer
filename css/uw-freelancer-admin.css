@@ -1,0 +1,10 @@
+#icon-themes{
+    background-image: url('../images/uw-freelancer-page-icon.png');
+    background-position: 0 0;
+}
+
+.wrap{
+    background-image: url('../images/uw-freelancer-background.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}

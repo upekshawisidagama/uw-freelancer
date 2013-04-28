@@ -1,0 +1,48 @@
+@import "compass/css3";
+@import "btnMixin";
+
+// Button
+
+$baseColor:    #E0E0E0;
+$textColor:    darken($baseColor, 50%);
+$fontSize:     1em;
+@import 'btnMixin';
+.btn {
+	@include btn();
+}
+
+.uwf-widget{
+   .uwf-profile-photo{
+      text-align:center;
+      margin: 5px 0;
+   }
+   .uwf-profile-details{
+      overflow:auto; 
+   }
+   .uwf-item{
+      float:left;	   
+      clear:both;
+      line-height:1.6;
+      .uwf-item-header{
+         font-weight:bold;
+      }
+   }
+   .uwf-hire-me-link{
+      text-align:center;
+      padding: 10px 0 5px 0;
+   }
+   .uwf-feedback{
+      line-height:1.6;
+   }
+   a{
+      color:#8b9dc3;
+      text-decoration:none;
+      &:hover{
+         color:#3b5998;
+      }
+   }
+   h4{
+      font-size:140%;
+      line-height:1.2;
+   } 
+}

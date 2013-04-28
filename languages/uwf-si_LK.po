@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UW Freelancer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-05 19:37+0530\n"
+"PO-Revision-Date: 2013-02-06 00:39+0530\n"
+"Last-Translator: Upeksha Wisidagama <upeksha@php-sri-lanka.com>\n"
+"Language-Team:  <upekshawisidagama@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;esc_attr__\n"
+"X-Poedit-Basepath: /var/www/bapml/wp-content/plugins/uw-freelancer\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-uwf-profile.php:7
+msgid "UW Freelancer Profile"
+msgstr "නිදහස් මිනිසාගෙ විස්තරය"
+
+#: inc/class-uwf-profile.php:10
+msgid "Freelancer.com profile information display widget"
+msgstr ""
+
+#: inc/class-uwf-settings.php:78
+msgid "Profile"
+msgstr "විස්තරය"
+
+#: inc/class-uwf-settings.php:79
+msgid "Feedback"
+msgstr "ලද ප්‍රතිචාර"
+
+#: inc/class-uwf-settings.php:80
+msgid "Affiliate"
+msgstr "වෙළදාම"
+
+#: inc/class-uwf-settings.php:81
+msgid "Settings"
+msgstr "සැකසුම්"
+
+#: inc/class-uwf-settings.php:89
+msgid "Freelancer Dashboard"
+msgstr "නිදහස් මිනිස් ප්‍රධාන පුවරුව"
+
+#: inc/class-uwf-settings.php:90
+msgid "Freelancer"
+msgstr "නිදහස් මිනිසා "
+
+#: inc/class-uwf-settings.php:98
+#: inc/class-uwf-settings.php:99
+msgid "API Console"
+msgstr "රළු කවුළුව "
+
+#: inc/class-uwf-settings.php:106
+msgid "Dashboard"
+msgstr "ප්‍රධාන පුවරුව"
+
+#: inc/class-uwf-settings.php:114
+#: inc/class-uwf-settings.php:126
+msgid "Freelancer.com API Console"
+msgstr "නිදහස් නිවහල් මිනිසුන්ගෙ රළු කවුළුව "
+
+#: inc/class-uwf-settings.php:121
+msgid "Query Freelancer.com API"
+msgstr "නිවහල් මිනිසුන්ගෙ කවුළුව තුලින් සෙවීම අරබනු"
+
+#: inc/class-uwf-settings.php:131
+msgid "API Query String"
+msgstr "රළු කවුළු විමසුම"
+
+#: inc/class-uwf-settings.php:139
+msgid "Enter the query string for freelancer.com api call"
+msgstr " රළු කවුළු විමැසුමට අදාල පැනය ඇතුලත් කරන්න"
+
+#: inc/class-uwf-settings.php:144
+msgid "Query API"
+msgstr "දැන් රළු කවුළුව විමසනු "
+
+#: inc/class-uwf-settings.php:147
+msgid "API Query Response"
+msgstr "රළු කවුළු ප්‍රතිචාරය"
+
+#: inc/class-uwf-settings.php:191
+msgid "Save Settings"
+msgstr "ස්ථිර කරනු"
+
+#: inc/class-uwf-settings.php:192
+msgid "Reset Defaults"
+msgstr "මුල් අගයන් ගෙනෙනු "
+
+#: inc/class-uwf-customizer.php:9
+msgid "Freelancer Widget"
+msgstr "නිවහල් මිනිස් විජට"
+
+#: inc/class-uwf-affiliate.php:7
+msgid "UW Freelancer Affiliate Project Listing"
+msgstr ""
+
+#: inc/class-uwf-affiliate.php:10
+msgid "List latest projects from freelancer.com."
+msgstr ""
+
+#: inc/class-uwf-feedback.php:7
+msgid "UW Freelancer Feedback"
+msgstr "නිදහස් මිනිසා ලද ප්‍රතිචාර"
+
+#: inc/class-uwf-feedback.php:10
+msgid "Show a list of recent feedbacks for projects at freelancer.com."
+msgstr ""
+
+#: inc/templates/options-register-profile.php:11
+msgid "Freelancer Profile"
+msgstr "නිදහස් මිනිසාගෙ විස්තරය"
+
+#: inc/templates/options-register-profile.php:16
+msgid "Freelancer Profile Information"
+msgstr "නිදහස් මිනිසාගෙ විස්තර දත්ත"
+
+#: inc/templates/options-register-profile.php:19
+msgid "User ID"
+msgstr "හැඳුනුම් අංකය"
+
+#: inc/templates/options-register-profile.php:24
+msgid " Enter your freelancer.com user id"
+msgstr "නිදහස් මිනිස් හැඳුනුම"
+
+#: inc/templates/options-register-profile.php:29
+msgid "Profile Structure"
+msgstr "විස්තර සැකසුම"
+
+#: inc/templates/options-register-profile.php:34
+msgid "Manage freelancer profile widget structure"
+msgstr "විස්තර සැකසුම කළමනාකරණය කරමු"
+
+#: inc/templates/options-register-profile.php:37
+msgid "Freelancer Logo"
+msgstr "නිදහස් මිනිසුන්ට වෙන්වූ රූපය"
+
+#: inc/templates/options-register-profile.php:43
+msgid " Display freelancer.com logo on top of the profile widget"
+msgstr "නිදහස් මිනිසුන්ට වෙන්වූ රූපය විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:46
+msgid "User Photo"
+msgstr "චායාරූපය"
+
+#: inc/templates/options-register-profile.php:52
+msgid " Display freelancer.com user profile photo in the profile widget"
+msgstr "චායාරූපය විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:55
+msgid "Username"
+msgstr "භාවිත නාමය"
+
+#: inc/templates/options-register-profile.php:61
+msgid " Display freelancer.com username in the profile widget"
+msgstr "භාවිත නාමය විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:64
+msgid "Company"
+msgstr "සෙවා ස්ථානය"
+
+#: inc/templates/options-register-profile.php:70
+msgid " Display freelancer.com user company in the profile widget"
+msgstr "සෙවා ස්ථානය විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:73
+msgid "City"
+msgstr "නගරය "
+
+#: inc/templates/options-register-profile.php:79
+msgid " Display freelancer.com user city in the profile widget"
+msgstr "නගරය විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:82
+msgid "Country"
+msgstr "උපන් රට"
+
+#: inc/templates/options-register-profile.php:88
+msgid " Display freelancer.com user country in the profile widget"
+msgstr "උපන් රට විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:91
+msgid "Registred Date"
+msgstr "ලියාපදිංචි වූ දිනය"
+
+#: inc/templates/options-register-profile.php:97
+msgid " Display freelancer.com user registered date in the profile widget"
+msgstr "ලියාපදිංචි වූ දිනය විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:100
+msgid "Rating"
+msgstr "පිළිගැනීම"
+
+#: inc/templates/options-register-profile.php:106
+msgid " Display freelancer.com user provider rating in the profile widget"
+msgstr "පිළිගැනීම විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:109
+msgid "Project Count"
+msgstr "ව්‍යාපෘති ගණන"
+
+#: inc/templates/options-register-profile.php:115
+msgid " Display freelancer.com user completed project count in the profile widget"
+msgstr "ව්‍යාපෘති ගණන විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:118
+msgid "Job List"
+msgstr "වැඩ ලෛස්තුව"
+
+#: inc/templates/options-register-profile.php:124
+msgid " Display freelancer.com job list in the profile widget"
+msgstr "වැඩ ලෛස්තුව විජට්ටුවෙ පෙන්වන්න "
+
+#: inc/templates/options-register-profile.php:129
+msgid "Freelancer Styles"
+msgstr "නිදහස් මිනිස් රටා"
+
+#: inc/templates/options-register-profile.php:134
+msgid "Formatting/Styling options for Freelancer.com Widgets"
+msgstr "විජට්ටුව සඳහා වන වෙස්පෙරලුම් විකල්ප"
+
+#: inc/templates/options-register-profile.php:137
+msgid "Customize Appearence"
+msgstr "වෙස් පෙරලනු"
+
+#: inc/templates/options-register-profile.php:140
+msgid "Customize Widget Appearence"
+msgstr "විජට්ටුවෙ වෙස් පෙරලනු"
+
+#: inc/templates/options-register-profile.php:140
+msgid "Visit Freelancer Widget section to customize the widget appearence"
+msgstr "විජට්ටුව සඳහා වන වෙස්පෙරලුම් විකල්ප සඳහා උත්සහ කරන්න"
+

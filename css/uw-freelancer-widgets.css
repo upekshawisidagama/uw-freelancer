@@ -1,0 +1,80 @@
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.5em 1.33333em;
+  font-size: 1em;
+  text-align: center;
+  border: 1px dashed #adadad;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 1px 0 white;
+  -moz-box-shadow: 0 1px 0 white;
+  box-shadow: 0 1px 0 white;
+  text-shadow: 0 1px 0 white;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+  color: #616161;
+}
+.btn:hover {
+  border-color: #949494;
+  border: 1px solid #adadad;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #c7c7c7));
+  background: -webkit-linear-gradient(top, #ffffff, #c7c7c7);
+  background: -moz-linear-gradient(top, #ffffff, #c7c7c7);
+  background: -o-linear-gradient(top, #ffffff, #c7c7c7);
+  background: linear-gradient(top, #ffffff, #c7c7c7);
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), inset 0 0 2px white;
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), inset 0 0 2px white;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), inset 0 0 2px white;
+  text-decoration: none;
+}
+.btn:active {
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #d3d3d3), color-stop(100%, #e0e0e0));
+  background: -webkit-linear-gradient(top, #d3d3d3, #e0e0e0);
+  background: -moz-linear-gradient(top, #d3d3d3, #e0e0e0);
+  background: -o-linear-gradient(top, #d3d3d3, #e0e0e0);
+  background: linear-gradient(top, #d3d3d3, #e0e0e0);
+  -webkit-box-shadow: 0 1px 0 white, inset 0 1px 2px #a0a0a0;
+  -moz-box-shadow: 0 1px 0 white, inset 0 1px 2px #a0a0a0;
+  box-shadow: 0 1px 0 white, inset 0 1px 2px #a0a0a0;
+  border-color: #949494;
+}
+
+.uwf-widget .uwf-profile-photo {
+  text-align: center;
+  margin: 5px 0;
+}
+.uwf-widget .uwf-profile-details {
+  overflow: auto;
+}
+.uwf-widget .uwf-item {
+  float: left;
+  clear: both;
+  line-height: 1.6;
+}
+.uwf-widget .uwf-item .uwf-item-header {
+  font-weight: bold;
+}
+.uwf-widget .uwf-hire-me-link {
+  text-align: center;
+  padding: 10px 0 5px 0;
+}
+.uwf-widget .uwf-feedback {
+  line-height: 1.6;
+}
+.uwf-widget a {
+  color: #8b9dc3;
+  text-decoration: none;
+}
+.uwf-widget a:hover {
+  color: #3b5998;
+}
+.uwf-widget h4 {
+  font-size: 140%;
+  line-height: 1.2;
+}
