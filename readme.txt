@@ -1,12 +1,12 @@
 === UW Freelancer ===
-Contributors: upeksha-wisidagama
-Donate link: http://bapml.com/
+Contributors: Upeksha Wisidagama
+Donate link: http://www.php-sri-lanka.blogspot.com
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 Tags: freelancer, freelancer.com, profile widget, feedback widget, affiliate widget
 Requires at least: 3.1
 Tested up to: 3.5.1
-Stable tag: 0.1
+Stable tag: 0.2
 
 Display your freelancer.com profile details and project feedback on your WordPress site using widgets. Display an affiliate project listing widget.
 
@@ -34,7 +34,7 @@ Plugin hooks allows you to hook into and alter almost any aspect of this plugin.
 = Further Reading =
 For more info, check out the following site:
 
-* [UW Freelancer Widget](http://bapml.com/wordpress-freelancer-plugin/).
+* [UW Freelancer Widget](http://www.github.com/upekshawisidagama).
 
 == Installation ==
 

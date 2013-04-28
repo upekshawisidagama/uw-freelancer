@@ -479,7 +479,7 @@ class UW_Freelancer_Setttings{
             {
             wp_enqueue_script('jquery-ui-tabs');
             wp_enqueue_script('freelancer-settings', UWF_URL . 'js/uw-freelancer-settings.js', 'jquery-ui-tabs', '1.0', true);
-            wp_enqueue_style('jquery-style', UWF_URL . 'css/smoothness/jquery-ui-1.10.0.custom.css');
+            wp_enqueue_style('jquery-style', 'http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css');
             }
         }
     }   
